@@ -1,0 +1,17 @@
+1.* @author  Lee Boynton
+ * @author  Arthur van Hoff
+ * @author  Martin Buchholz
+ * @author  Ulf Zibis
+
+2.@Deprecated
+public String foo() {	
+    // Método obsoleto
+}
+
+3. public int lastIndexOf(String str)	//El método lastIndexOf(String str) encuentra la última aparición de la subcadena str dentro de la cadena actual.
+
+
+4.public String replace(char oldChar, char newChar)	//Este método reemplaza todas las ocurrencias del carácter oldChar por newChar.
+
+
+5. public String[] split(String regex, int limit) //Este método divide la cadena en un array de subcadenas, según el delimitador regex.
